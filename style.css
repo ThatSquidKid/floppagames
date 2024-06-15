@@ -1,0 +1,38 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+body {
+  background: linear-gradient(to right bottom, #572e8e, #638f6d);
+  background-repeat: no-repeat;
+  background-size: 1500px 1500px;
+  .header {
+    background-color: #F1F1F1;
+    text-align: center;
+    padding: 20px;
+  }
+}
+h1 {
+  color: white;
+  font-family: Verdana;
+}
+h2 {
+  color: white;
+  font-family: Verdana;
+}
+button {
+  background-color: purple;
+  font-color: white
+}
+p {
+  color: white;
+  font-family: Verdana;
+}
+
+h3 {
+  color: white;
+  font-family: Verdana;
+}
+
+
+
